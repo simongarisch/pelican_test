@@ -1,3 +1,3 @@
 call "./env/Scripts/activate"
 cd output
-python -m http.server
+python -m pelican.server
