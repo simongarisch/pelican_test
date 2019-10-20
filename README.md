@@ -9,3 +9,6 @@ https://janakiev.com/blog/pelican-jupyter/
 
 Some tutorials
 https://github.com/getpelican/pelican/wiki/Tutorials
+
+for themes
+https://rasor.github.io/using-pelican-themes.html
