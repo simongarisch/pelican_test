@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'simon'
 SITENAME = 'testsite'
 SITEURL = ''
+
 THEME = 'Flex'
 
 PATH = 'content'
