@@ -6,7 +6,7 @@ AUTHOR = 'simon'
 SITENAME = 'testsite'
 SITEURL = ''
 
-THEME = 'Flex'
+THEME = 'bootstrap2-dark'
 
 PATH = 'content'
 
