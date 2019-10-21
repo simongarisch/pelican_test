@@ -12,3 +12,14 @@ https://github.com/getpelican/pelican/wiki/Tutorials
 
 for themes
 https://rasor.github.io/using-pelican-themes.html
+
+
+Some site examples
+https://github.com/getpelican/pelican/wiki/Powered-by-Pelican
+https://github.com/buddycloud/buddycloud.com
+https://github.com/mattmakai/fullstackpython.com
+https://github.com/tdwg/website
+https://github.com/pyladies-brazil/br-pyladies-pelican
+https://github.com/girisagar46/girisagar46.github.io
+https://perso.crans.org/besson/cuisine/
+
