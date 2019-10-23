@@ -28,3 +28,17 @@ https://github.com/pyladies-brazil/br-pyladies-pelican
 https://github.com/girisagar46/girisagar46.github.io
 https://perso.crans.org/besson/cuisine/
 https://github.com/danielfrg/extrapolations.dev
+
+
+Also built with nikola
+https://github.com/getnikola/nikola-site
+
+https://github.com/legacysurvey/legacysurvey
+
+https://github.com/macplay/macplay.github.io
+
+https://github.com/Cantera/cantera-website
+
+https://github.com/ccnmtl/mediathread_info
+
+https://github.com/kbarbary/website
